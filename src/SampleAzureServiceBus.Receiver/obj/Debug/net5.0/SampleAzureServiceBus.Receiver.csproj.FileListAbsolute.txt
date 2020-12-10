@@ -21,3 +21,12 @@
 /home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/Azure.Messaging.ServiceBus.dll
 /home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
 /home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/System.Memory.Data.dll
+/home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/Microsoft.Extensions.Configuration.dll
+/home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Json.dll
+/home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Physical.dll
+/home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll

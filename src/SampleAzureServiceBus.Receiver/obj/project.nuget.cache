@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9Jc3MQqRYu3cWTvMDU6SHRrRB+eVCJEtAW51oGbSp9YFCW9Pj0uny39g+YQzN5VsfizFcZf+c5LXu5+5lowO7w==",
+  "dgSpecHash": "dQUQRvaunuGaQnyXnBye1ceMeb7+dcslLoGSb5GnueSZLcuzlnAWU7haGBQ8jHmIXKv4Fph+0bt3DKFZ7BSdlg==",
   "success": true,
   "projectFilePath": "/home/ziagham/Programming/Github/Sample-AzureServiceBus/src/SampleAzureServiceBus.Receiver/SampleAzureServiceBus.Receiver.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,15 @@
     "/home/ziagham/.nuget/packages/azure.messaging.servicebus/7.0.0/azure.messaging.servicebus.7.0.0.nupkg.sha512",
     "/home/ziagham/.nuget/packages/microsoft.azure.amqp/2.4.8/microsoft.azure.amqp.2.4.8.nupkg.sha512",
     "/home/ziagham/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "/home/ziagham/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/home/ziagham/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/home/ziagham/.nuget/packages/microsoft.extensions.configuration.binder/5.0.0/microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "/home/ziagham/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/home/ziagham/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/home/ziagham/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/home/ziagham/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/home/ziagham/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/home/ziagham/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/home/ziagham/.nuget/packages/microsoft.netcore.platforms/1.0.2/microsoft.netcore.platforms.1.0.2.nupkg.sha512",
     "/home/ziagham/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "/home/ziagham/.nuget/packages/microsoft.win32.primitives/4.0.1/microsoft.win32.primitives.4.0.1.nupkg.sha512",
